@@ -1,0 +1,88 @@
+.topDiv {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+#titleLogo {
+  float: left;
+}
+#icons {
+  position: relative;
+  left: 55%;
+}
+h3 {
+  font-size: 20px;
+  font-family: 'Yellowtail', cursive;
+}
+h1{
+  clear:both;
+  font-size: 30px;
+}
+#webTitle{
+  float: left;
+}
+#secondHead{
+  clear:both;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+#border1{
+  text-align:center;
+}
+#title{
+  float:left;
+  /*margin-left: 15%;
+  margin-right: 15%;*/
+
+}
+#print{
+  position: relative;
+  left:55%;
+}
+#mainPic{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+#article {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.ingredients {
+  background-image: url("img/list-bg.png");
+  margin-left: 15%;
+  margin-right: 20%;
+  height: 180px;
+  border-bottom: 3px solid grey;
+  border-left: white;
+  border-right: white;
+  margin-bottom: 40px;
+}
+.leftList {
+  float: left;
+}
+.rightList {
+  position: relative;
+  left: 220px;
+}
+ul {
+  list-style-type: none;
+}
+#border2 {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+#bottomDiv{
+  margin-left: 15%;
+  float: left;
+}
+#vanPicture{
+  float:left;
+}
+#last{
+  clear:both;
+  text-align: center;
+}
+input{
+  margin-right: 6%;
+  color: white;
+  background-color: red;
+}
