@@ -7,18 +7,24 @@
 }
 #icons {
   position: relative;
-  left: 55%;
+  left: 50%;
 }
 h3 {
-  font-size: 20px;
+  font-size: 40px;
   font-family: 'Yellowtail', cursive;
+  position: relative;
+  bottom: 50px;
+
 }
 h1{
   clear:both;
   font-size: 30px;
+  font-family: 'Anton', sans-serif;
+  margin-bottom: 0px;
 }
 #webTitle{
   float: left;
+  height: 75px;
 }
 #secondHead{
   clear:both;
@@ -26,17 +32,27 @@ h1{
   margin-right: 15%;
 }
 #border1{
-  text-align:center;
+
 }
 #title{
   float:left;
   /*margin-left: 15%;
   margin-right: 15%;*/
-
+  height: 90px;
 }
+.titleInfo {
+  font-size: 12px;
+  position: relative;
+  bottom: 17px;
+  color: grey;
+}
+
 #print{
   position: relative;
-  left:55%;
+  left: 64%;
+  top: 42px;
+  font-size: 12px;
+  color: grey;
 }
 #mainPic{
   margin-left: 15%;
@@ -85,4 +101,13 @@ input{
   margin-right: 6%;
   color: white;
   background-color: red;
+}
+.printContent {
+  display: inline-block;
+}
+#titleSub {
+  position: relative;
+  bottom: 105px;
+  left: 45px;
+  font-size: 10px;
 }
