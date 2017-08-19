@@ -60,27 +60,35 @@ h1{
 }
 #article {
   margin-left: 15%;
-  margin-right: 15%;
+  margin-right: 22%;
+  text-indent: 50px;
+  color: grey;
+  font-size: 18px;
 }
 .ingredients {
   background-image: url("img/list-bg.png");
   margin-left: 15%;
-  margin-right: 20%;
-  height: 180px;
-  border-bottom: 3px solid grey;
+  margin-right: 22%;
+  height: 300px;
   border-left: white;
   border-right: white;
   margin-bottom: 40px;
 }
 .leftList {
   float: left;
+  font-size: 20px;
+  margin-top: 33px;
 }
 .rightList {
   position: relative;
   left: 220px;
+  font-size: 20px;
+  float:left;
 }
 ul {
   list-style-type: none;
+  font-family: 'Patrick Hand', cursive;
+
 }
 #border2 {
   margin-left: 15%;
@@ -110,4 +118,10 @@ input{
   bottom: 105px;
   left: 45px;
   font-size: 10px;
+}
+li{
+  margin-top: 4px;
+}
+#firstList{
+  margin-top: 20px;
 }
