@@ -100,6 +100,7 @@ ul {
 }
 #vanPicture{
   float:left;
+  display: inline-block;
 }
 #last{
   clear:both;
@@ -108,7 +109,13 @@ ul {
 input{
   margin-right: 6%;
   color: white;
-  background-color: red;
+  background-color: #e06755;
+  height: 60px;
+  width: 190px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+  position: relative;
+  left: 15px;
 }
 .printContent {
   display: inline-block;
@@ -124,4 +131,23 @@ li{
 }
 #firstList{
   margin-top: 20px;
+}
+#about{
+  font-size: 18px;
+  margin-top: initial;
+}
+h2{
+  display:initial;
+}
+hr {
+  clear: both;
+  margin-top: 100px;
+}
+#last{
+
+  color: grey;
+}
+#lastImg {
+  position: relative;
+  bottom: 26px;
 }
